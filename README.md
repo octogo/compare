@@ -1,0 +1,3 @@
+# Compare [![Build Status](https://travis-ci.org/octogo/compare.svg?branch=master)](https://travis-ci.org/octogo/compare) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![GoDoc](https://godoc.org/github.com/octogo/compare?status.svg)](https://godoc.org/github.com/octogo/compare)
+
+**A Golang package providing useful functions for comparing types by value.**
